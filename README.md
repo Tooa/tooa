@@ -2,7 +2,7 @@
 
 ### About me 🧐
 
-I am a DevSecOps minded software engineer with experience in designing secure, reliability, scalable
+I am a DevSecOps minded software engineer with experience in designing secure, reliable, scalable
 and resilient software systems.
 
 ```kotlin
